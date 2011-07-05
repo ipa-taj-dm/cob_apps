@@ -1416,3 +1416,4 @@ class action_handle:
 			return
 			
 		self.set_succeeded() # full success
+
